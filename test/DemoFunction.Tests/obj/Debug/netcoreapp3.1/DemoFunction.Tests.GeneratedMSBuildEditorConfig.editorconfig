@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DemoFunction.Tests
+build_property.ProjectDir = /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/test/DemoFunction.Tests/

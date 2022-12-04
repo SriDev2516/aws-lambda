@@ -1,0 +1,16 @@
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/DemoFunction.deps.json
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/DemoFunction.runtimeconfig.json
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/DemoFunction.runtimeconfig.dev.json
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/DemoFunction.dll
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/DemoFunction.pdb
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Core.dll
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Debug/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.csproj.AssemblyReference.cache
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.AssemblyInfoInputs.cache
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.AssemblyInfo.cs
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.csproj.CoreCompileInputs.cache
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.csproj.CopyComplete
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.dll
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.pdb
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Debug/netcoreapp3.1/DemoFunction.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KnPKQLsBi+M60FMtfSqhUiCsLGKDo5B+kzCvWlZkPfj4huMRC0+3PlZVFqzBNkPFKPEyiazeN5BeX6d7V0POA==",
+  "success": true,
+  "projectFilePath": "/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/DemoFunction.csproj",
+  "expectedPackageFiles": [
+    "/Users/srini/.nuget/packages/amazon.lambda.core/1.2.0/amazon.lambda.core.1.2.0.nupkg.sha512",
+    "/Users/srini/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.1.0/amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
