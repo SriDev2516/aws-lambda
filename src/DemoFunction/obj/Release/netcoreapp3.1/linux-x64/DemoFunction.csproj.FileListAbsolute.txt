@@ -14,3 +14,4 @@
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Release/netcoreapp3.1/linux-x64/DemoFunction.dll
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Release/netcoreapp3.1/linux-x64/DemoFunction.pdb
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/obj/Release/netcoreapp3.1/linux-x64/DemoFunction.genruntimeconfig.cache
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/linux-x64/Amazon.Lambda.APIGatewayEvents.dll

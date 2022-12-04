@@ -2,5 +2,6 @@
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/DemoFunction.deps.json
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/DemoFunction.runtimeconfig.json
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/DemoFunction.pdb
+/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.APIGatewayEvents.dll
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Core.dll
 /Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/bin/Release/netcoreapp3.1/publish/Amazon.Lambda.Serialization.SystemTextJson.dll

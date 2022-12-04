@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 using Amazon.Lambda.Core;
+using Amazon.Lambda.APIGatewayEvents;   
 
 // Assembly attribute to enable the Lambda function's JSON input to be converted into a .NET class.
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
@@ -19,10 +20,18 @@ namespace DemoFunction
         /// <param name="input"></param>
         /// <param name="context"></param>
         /// <returns></returns>
-        public string FunctionHandler(string input, ILambdaContext context)
+        public APIGatewayProxyResponse FunctionHandler(APIGatewayProxyRequest request, ILambdaContext context)
         {
-            context.Logger.Log($"Got new message from demo function: {input}");
-            return input?.ToUpper();
+            string name = "No Name";
+            if(request.QueryStringParameters != null && request.QueryStringParameters.ContainsKey("name")){
+                name = request.QueryStringParameters["name"];
+            }
+            context.Logger.Log($"Name is : {name}");
+            
+            return new APIGatewayProxyResponse() {
+                StatusCode = 200,
+                Body = $"The name is : {name}"
+            };
         }
     }
 }

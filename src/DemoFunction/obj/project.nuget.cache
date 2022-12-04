@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8KnPKQLsBi+M60FMtfSqhUiCsLGKDo5B+kzCvWlZkPfj4huMRC0+3PlZVFqzBNkPFKPEyiazeN5BeX6d7V0POA==",
+  "dgSpecHash": "Ts/3jQXyL4l1n/26iq1F7OfTk6ZyxGSsUKeyYs15RrLZg+/bB0abF8s1nn70q3y86+jyHi8olnxH908aUUTF7A==",
   "success": true,
   "projectFilePath": "/Users/srini/Documents/Projects/AWS/Lambda/DemoFunction/src/DemoFunction/DemoFunction.csproj",
   "expectedPackageFiles": [
+    "/Users/srini/.nuget/packages/amazon.lambda.apigatewayevents/2.5.0/amazon.lambda.apigatewayevents.2.5.0.nupkg.sha512",
     "/Users/srini/.nuget/packages/amazon.lambda.core/1.2.0/amazon.lambda.core.1.2.0.nupkg.sha512",
     "/Users/srini/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.1.0/amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
   ],
